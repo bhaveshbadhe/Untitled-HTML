@@ -1,0 +1,153 @@
+.iphone13mini1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.iphone13mini1-i-phone13mini1 {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.iphone13mini1-group1 {
+  top: 209px;
+  left: 109px;
+  width: 157px;
+  height: 154px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.iphone13mini1-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 157px;
+  height: 154px;
+  position: absolute;
+}
+.iphone13mini1-ellipse1 {
+  top: 13px;
+  left: 11px;
+  width: 135px;
+  height: 129px;
+  position: absolute;
+}
+.iphone13mini1-details {
+  top: 399px;
+  left: 25px;
+  width: 310px;
+  height: 130px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.iphone13mini1-text {
+  color: rgba(100, 100, 100, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.iphone13mini1-text2 {
+  top: 101px;
+  color: rgba(100, 100, 100, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.iphone13mini1-text4 {
+  top: 49px;
+  color: rgba(100, 100, 100, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.iphone13mini1-line1 {
+  top: 23px;
+  left: 119px;
+  width: 191px;
+  height: 1px;
+  position: absolute;
+}
+.iphone13mini1-line2 {
+  top: 124px;
+  left: 119px;
+  width: 191px;
+  height: 1px;
+  position: absolute;
+}
+.iphone13mini1-line3 {
+  top: 73px;
+  left: 119px;
+  width: 191px;
+  height: 1px;
+  position: absolute;
+}
+.iphone13mini1-line4 {
+  top: 787px;
+  left: 94px;
+  width: 186px;
+  height: 1px;
+  position: absolute;
+}
+.iphone13mini1-button {
+  top: 593px;
+  left: 32px;
+  width: 311px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.iphone13mini1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 311px;
+  height: 80px;
+  position: absolute;
+}
+.iphone13mini1-text6 {
+  top: 18px;
+  left: 87px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
